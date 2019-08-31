@@ -1,7 +1,7 @@
 {
   "name": "jsonserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple json server example used in https://github.com/darpanrangari/react-native-blog-crud",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
